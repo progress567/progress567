@@ -1,5 +1,5 @@
-- i, I’m solomon progress and am a 
-- i'm intrested in web developement
+- i, I’m solomon progress and am from Nigeria. 
+- i'm intrested in web developement because i like creating solutions
 - I’m currently learning python3 and html
 - I’m looking to collaborate on with my fellow dev minded personalities and 
 - you can reach  me by contacting on email solomonprogress567@gmail.com and on WhatsApp- 08154228749
